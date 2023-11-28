@@ -1,0 +1,32 @@
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 5
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 6
+[09-Feb-2023 04:16:39 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 7
+[09-Feb-2023 16:46:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 12
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 5
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 6
+[09-Feb-2023 04:17:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 7
+[09-Feb-2023 16:47:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 12
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 5
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 6
+[09-Feb-2023 04:18:05 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 7
+[09-Feb-2023 16:48:05 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 12
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 3
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 5
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 6
+[09-Feb-2023 04:19:29 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 7
+[09-Feb-2023 16:49:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 12
+[09-Feb-2023 04:20:08 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 5
+[09-Feb-2023 04:20:08 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 6
+[09-Feb-2023 04:20:08 America/Boise] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 7
+[09-Feb-2023 16:50:08 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/iiijssmy/public_html/hhw/bookAppointment.php on line 12
